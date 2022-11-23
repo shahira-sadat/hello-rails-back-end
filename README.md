@@ -1,7 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello Rails Back-end
- Create a React front-end with a Rails back-end and connect them to display a random greeting message..
+ Create a React front-end with a Rails back-end and connect them to display a random greeting message.
+
+# [Front-end repo Link](https://github.com/shahira-sadat/hello-rails-back-end/)
 
 ## Built With
 ![](https://img.shields.io/badge/-Ruby-red)
